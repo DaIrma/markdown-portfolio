@@ -1,14 +1,14 @@
 ---
-layout: default
+- item lotr
+- item hitman
 ---
 
-{% include 01-name.md %}
+iiro kiiski
+- 😧
 
-<br>
 
-{% include 02-image.md %}
+* dota 2
 
-<br>
+* bond
 
-{% include 03-links.md %}
-
+* hohoh
