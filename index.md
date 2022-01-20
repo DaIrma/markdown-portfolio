@@ -1,3 +1,3 @@
-item lotr
-item hitman
-🫀
+- item lotr
+- item hitman
+- 🫀
