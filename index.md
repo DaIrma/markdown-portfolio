@@ -7,8 +7,8 @@ iiro kiiski
 - 😧
 
 
-{% include 03-links.md %}
+* dota 2
 
-<br>
+* bond
 
-{% include 03-links.md %}
+* hohoh
